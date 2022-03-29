@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+
+}
+body {
+    background-color: rgb(181, 203, 224);
+}
+text{
+    font-size: 30px;
+
+}
+
+table{
+    border-collapse: collapse;
+    color: rgb(7, 5, 107) ;
+}
+tr,td,th {
+    padding: 30px;
+    border: 2p;
+    border: 4px double black;
+
+}
+
+    
